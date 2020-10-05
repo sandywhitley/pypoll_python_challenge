@@ -7,8 +7,6 @@
 ## Overview of Election Audit
 The purpose of this audit was to use Python to analyze the raw data vote file (election_results.csv) for the 2018 US House Colorado District 1 general election. The counties included in District 1 are Jefferson, Denver, and Arapahoe and the candidates were Dianne DeGette (Democrat), Charles Casper Stockham (Republican) and Raymon Anthony Doane (Liberatarian). Python was used to calculate and organize the data to show total votes cast, votes by county by percentage and quantity, and votes by candidate by percentage and quantity. 
 
-![Election Results Raw Data](/resources/election_results.csv)
-
 ## Election-Audit Results
 The analysis lead to the following results which are also reflected in the deliverables:
 * Total Votes: 369,711
@@ -25,10 +23,13 @@ The analysis lead to the following results which are also reflected in the deliv
 
 ### Deliverables
 
-![1. Election Results Terminal Output](/Resources/election_results_terminal.PNG)
+1. Election Results Terminal Output
 
+![Election Results Terminal Output](/Resources/election_results_terminal.PNG)
 
-![2. Election Results Text Output File](/analysis/election_results.txt)
+2. Election Results Text Output File
+
+![Election Results Text Output File](/analysis/election_results.txt)
 
 
 ## Election-Audit Summary
