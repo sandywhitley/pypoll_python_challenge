@@ -25,9 +25,10 @@ The analysis lead to the following results which are also reflected in the deliv
 
 ### Deliverables
 
-![1. Election Results Terminal Output](/Resources/election_results_terminal.png)
+![1. Election Results Terminal Output](/Resources/election_results_terminal.PNG)
 
-![2. Election Results Text Output File](/Resources/election_results.txt)
+
+![2. Election Results Text Output File](/analysis/election_results.txt)
 
 
 ## Election-Audit Summary
@@ -37,4 +38,4 @@ This Python election results script contains two sets of data organizations tool
 
 This script also contains output file organization that can be modified to meet the reporting needs of the election.
 
-![Election Results Pythoin Script](pypoll_challenge.py)
+![Election Results Python Script](pypoll_challenge.py)
